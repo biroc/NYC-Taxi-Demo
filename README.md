@@ -15,7 +15,7 @@ Normally, solving Kaggle problems is a very iterative process. Competitors look 
 To use run these notebooks, do the following
 #### Mac OS
 ```sh
-brew install gcc --without-multilib
+brew install gcc@5 --without-multilib
 pip install -r requirements.txt
 ```
 #### Linux
